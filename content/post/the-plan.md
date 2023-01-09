@@ -25,7 +25,7 @@ The next step was to see which way to go: clockwise or counter-clockwise. This t
 
 As a side-note, at the time of writing this, the bridge toll is [$50.25](https://www.confederationbridge.com/tolls-fees) per car.
 
-To get a feel for the winds I went to the [Windy](https://www.windy.com) website and downloaded historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. The way the island is positioned in report to these winds would perhaps indicate that it makes more sense to paddle clockwise, and perhaps not. This paddle will be done clockwise! See Fig 1 below:
+To get a feel for the winds I went to the [Windy](https://www.windy.com) website and downloaded historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. The way the island is positioned in relation to these winds would perhaps indicate that it makes more sense to paddle clockwise, and perhaps not. This paddle will be done clockwise! See Fig 1 below:
 
 ![Fig 1](/Wind.jpg)
 {{< center >}}

@@ -46,8 +46,17 @@ Knowing the approximate distance, next step is to see how long this trip might t
 Fig 3.
 {{< /center >}}
 
-From experience, when paddling alone my average pace is 3.5 to 4 kts. Start there, and then as I would get tired the average would drop to perhaps 2.5 kts throughout. The traveling time does not have to be continuous, however it would take that calculated number of days to circumnavigate.
+From experience, when paddling alone my average pace is 3.5 to 4 kts. Start there, and then as I would get tired the average would drop to perhaps 2.5 kts throughout. To avoid any misinterpretations, the total traveling time as indicated by the table does not imply continuous paddling for that many hours a day. It just states that it would take that calculated number of days to circumnavigate.
 
-What is the starting/finishing point? Avoid extra travel or see more?
+> Some considerations below
 
-Next post: The Contingencies.
+A. The attached [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate this year the maximum current speeds at 1.9 knots just lagging a few days the "Buck Moon" (July 5-7). Just avoid this area in this period as there is no need to paddle a strong opposing current.
+
+B. The Charlottetown Harbour, although convenient, it isn't the greatest put-in/take-out spot for this trip as it adds 20 nautical miles (1 extra day), and at the very least one overnight plus the food and water needed. And I know the area very well due to numerous paddles here. While the current is significant in the channel, one can stay closer to the shore. See Fig 4 below:
+
+![Charlottetown Harbour](/Charlottetown.JPG)
+{{< center >}}
+Fig 4.
+{{< /center >}}
+
+TODO

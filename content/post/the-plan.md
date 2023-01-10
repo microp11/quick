@@ -27,21 +27,21 @@ As a side-note, at the time of writing this, the bridge toll is [$50.25](https:/
 
 To get a feel for the winds I went to the [Windy](https://www.windy.com) website and looked for historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. The way the island is positioned in relation to these winds would perhaps indicate that it makes more sense to paddle clockwise... or perhaps not. However I have decided that this paddle will be done clockwise! See Fig 1 below:
 
-![Fig 1](/Wind.jpg)
+![Fig 1](/img/Wind.jpg)
 {{< center >}}
 Fig 1.
 {{< /center >}}
 
 With the direction of travel figured out, the next step was to estimate the distance. With the help of Garmin HomePort mapping software I got to 282 nautical miles (Fig 2).
 
-![Fig 2](/Around.JPG)
+![Fig 2](/img/Around.JPG)
 {{< center >}}
 Fig 2.
 {{< /center >}}
 
 Knowing the approximate distance, next step is to see how long this trip might take. With a bit of Excel, one can input the distance, the time of paddling and the break time each hour. The sheet would then spit out a bunch of values indicating in days how long it would take one to paddle a given inputted distance, given certain traveling speeds from 2.5 to 4.5 knots (Fig 3):
 
-![Fig 3](/Calculator.JPG)
+![Fig 3](/img/Calculator.JPG)
 {{< center >}}
 Fig 3.
 {{< /center >}}
@@ -54,35 +54,35 @@ A. The attached [2023 Canadian Tide and Current tables for the Gulf of St.Lawren
 
 B. The Charlottetown Harbour, although convenient, it isn't the greatest put-in/take-out spot for this trip as it adds 20 nautical miles (1 extra day), and at the very least one overnight plus the food and water needed. And I know the area very well due to numerous paddles here. While the current is significant in the channel, one can stay closer to the shore. See Fig 4 below:
 
-![Charlottetown Harbour](/Charlottetown.JPG)
+![Charlottetown Harbour](/img/Charlottetown.JPG)
 {{< center >}}
 Fig 4.
 {{< /center >}}
 
-C. Hazardous area due to high cliffs near Sea Cow Head Lighthouse. The water is deep and we have a long fetch. The SW gets accelerated in the strait and the water builds up quickly. The waves reflect then from the cliffs and we have a chaotic environment. I have been caught unaware once in that spot by a similar built-up. It was not the most pleasant paddle. See Fig 5 below:
+C. Hazardous area due to high cliffs near Sea Cow Head Lighthouse. The water is deep and we have a long fetch. The SW wind gets accelerated in the strait and the water builds up quickly. The waves reflect then from the cliffs and we have a chaotic environment. I have been caught unaware once in that spot by a similar build-up. It was not the most pleasant paddle. See Fig 5 below:
 
-![Sea Cow Head Lighthouse](/SeaCowHeadLighthouse.JPG)
+![Sea Cow Head Lighthouse](/img/SeaCowHeadLighthouse.JPG)
 {{< center >}}
 Fig 5.
 {{< /center >}}
 
 D. Cape Egmont Lighthouse. I have not paddled in this spot before but it looks similar to the spot near the Sea Cow Head Lighthouse mentioned above. Hazardous area for sure. See Fig 6 below:
 
-![Cape Egmont Lighthouse](/CapeEgmontLighthouse.JPG)
+![Cape Egmont Lighthouse](/img/CapeEgmontLighthouse.JPG)
 {{< center >}}
 Fig 6.
 {{< /center >}}
 
 E. Egmont Bay. It is a large bay and potentially one could save a lot of time by paddling deeper into the sea. There is however a long fetch for SW strait accelerated wind, and deep water. The sea could built up fast if wind increases. Staying closer to the shore adds to the distance, however it all depends on the conditions at the time. "Hope for the best, prepare for the worst!" See Fig 7 below:
 
-![Egmont Bay](/EgmontBay.JPG)
+![Egmont Bay](/img/EgmontBay.JPG)
 {{< center >}}
 Fig 7.
 {{< /center >}}
 
 F. The Campbelton cliffs look like having the potential to create trouble. Will paddle mindfully. Fig 8 below:
 
-![Campbelton Cliffs](/CliffsAtWhitesCove.JPG)
+![Campbelton Cliffs](/img/CliffsAtWhitesCove.JPG)
 {{< center >}}
 Fig 8.
 {{< /center >}}

@@ -59,4 +59,32 @@ B. The Charlottetown Harbour, although convenient, it isn't the greatest put-in/
 Fig 4.
 {{< /center >}}
 
-TODO
+C. Hazardous area due to high cliffs near Sea Cow Head Lighthouse. The water is deep and we have a long fetch. The SW gets accelerated in the strait and the water builds up quickly. The waves reflect then from the cliffs and we have a chaotic environment. I have been caught unaware once in that spot by a similar built-up. It was not the most pleasant paddle. See Fig 5 below:
+
+![Sea Cow Head Lighthouse](/SeaCowHeadLighthouse.JPG)
+{{< center >}}
+Fig 5.
+{{< /center >}}
+
+D. Cape Egmont Lighthouse. I have not paddled in this spot before but it looks similar to the spot near the Sea Cow Head Lighthouse mentioned above. Hazardous area for sure. See Fig 6 below:
+
+![Cape Egmont Lighthouse](/CapeEgmontLighthouse.JPG)
+{{< center >}}
+Fig 6.
+{{< /center >}}
+
+E. Egmont Bay. It is a large bay and potentially one could save a lot of time by paddling deeper into the sea. There is however a long fetch for SW strait accelerated wind, and deep water. The sea could built up fast if wind increases. Staying closer to the shore adds to the distance, however it all depends on the conditions at the time. "Hope for the best, prepare for the worst!" See Fig 7 below:
+
+![Egmont Bay](/EgmontBay.JPG)
+{{< center >}}
+Fig 7.
+{{< /center >}}
+
+F. The Campbelton cliffs look like having the potential to create trouble. Will paddle mindfully. Fig 8 below:
+
+![Campbelton Cliffs](/CliffsAtWhitesCove.JPG)
+{{< center >}}
+Fig 8.
+{{< /center >}}
+
+Eof.

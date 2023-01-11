@@ -9,10 +9,11 @@ draft: false
 
 A few people have done this already, and it is only fair to assume that there are more:
 
--   [William Arthur "Bill" Reddin and dog Bozo (1934-1935), canoe, counter-clockwise](https://islandvoices.ca/islandora/object/ivoices%3A318)
--   [Wendy Killoran (May-June 2005), 15 days, clockwise](https://glska.com/around-p-e-i-by-kayak/)
+-   [William Arthur "Bill" Reddin and dog Bozo, canoe (1934-1935), counter-clockwise](https://islandvoices.ca/islandora/object/ivoices%3A318)
+-   [Reinhard Zollitsch, sea canoe (1996-2001), 6 years, clockwise](http://www.zollitschcanoeadventures.com/articles/pei.html)
+-   [Wendy Killoran, sea kayak (May-June 2005), 15 days, clockwise](https://glska.com/around-p-e-i-by-kayak/)
 -   [Joseph Simmonds, sea kayak (August 2016), 12 days, counter-clockwise](https://www.cbc.ca/news/canada/prince-edward-island/pei-kayak-1.3729504)
--   [Annette Boerlage, sea kayak (2014-2016)](https://fourfeetonadventure.com/)
+-   [Annette Boerlage, sea kayak (2014-2016), 3 years, puzzle... wise](https://fourfeetonadventure.com/)
 -   [Douglas Russell and Colin Hudson, SUP (June 2020), 12 days, clockwise](https://atlantic.ctvnews.ca/two-veterans-become-first-to-paddleboard-around-p-e-i-for-injured-soldiers-1.5978679)
 
 The purpose of the trip is to challenge oneself, enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip.
@@ -48,34 +49,34 @@ From experience, when paddling alone my average pace is 3.5 to 4 kts. Start ther
 
 > Some considerations below
 
-A. The attached [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate the maximum current speeds at 1.9 knots just lagging a few days the "Buck Moon" (July 5-7). Just avoid this area in this period as there is no need to paddle a strong opposing current.
+The attached [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate the maximum current speeds at 1.9 knots just lagging a few days the "Buck Moon" (July 5-7). Just avoid this area in this period as there is no need to paddle a strong opposing current.
 
-B. The Charlottetown Harbour, although convenient, it isn't the greatest put-in and take-out spot for this trip as it adds 20 nautical miles (1 extra day). Would be at the very least one overnight plus the food and water needed. While the current is significant in the channel, one can stay closer to the shore.
+The Charlottetown Harbour, although convenient, it isn't the greatest put-in and take-out spot for this trip as it adds 20 nautical miles (1 extra day). Would be at the very least one overnight plus the food and water needed. While the current is significant in the channel, one can stay closer to the shore.
 
 ![Charlottetown Harbour](/img/Charlottetown.JPG)
 {{< center >}}
 Charlottetown Harbour
 {{< /center >}}
 
-C. Near the Sea Cow Head Lighthouse we are presented with a hazardous area due to high cliffs and deep water. The SW wind gets accelerated in the strait and the water builds up quickly. The waves then reflect from the cliffs and we have a chaotic environment. I have been caught unaware once in this spot by a similar build-up. It was not the most pleasant paddle.
+Near the Sea Cow Head Lighthouse we are presented with a hazardous area due to high cliffs and deep water. The SW wind gets accelerated in the strait and the water builds up quickly. The waves then reflect from the cliffs and we have a chaotic environment. I have been caught unaware once in this spot by a similar build-up. It was not the most pleasant paddle.
 
 ![Sea Cow Head Lighthouse](/img/SeaCowHeadLighthouse.JPG)
 {{< center >}}
 Sea Cow Head Lighthouse
 {{< /center >}}
 
-D. Cape Egmont Lighthouse. I have not paddled in this spot before but it looks similar to the spot near the Sea Cow Head Lighthouse mentioned above. Hazardous area for sure.
+Around Cape Egmont Lighthouse the strait current has a sensible presence. Augmented by the wind, the spot looks similar to the one near the Sea Cow Head Lighthouse mentioned above. Something to be aware of!
 
 ![Cape Egmont Lighthouse](/img/CapeEgmontLighthouse.JPG)
 {{< center >}}
 Cape Egmont Lighthouse
 {{< /center >}}
 
-E. Egmont Bay. It is a large bay and potentially one could save a lot of time by paddling deeper into the sea. There is however a long fetch for SW wind coming from the strait and the water is deep. The sea could build-up fast. Staying closer to the shore adds to the distance and the wave size increases, so it is a balance act in conditions: "Hope for the best, prepare for the worst!"
+Egmont Bay is a large bay and potentially one could save a lot of time by paddling deeper into the sea. There is however a long fetch for SW wind coming from the strait and the water is deep. The sea could build-up fast. Staying closer to the shore adds to the distance, the wave size increases and then you have breakers, so it is a balance act in conditions: "Hope for the best, prepare for the worst!"
 
 ![Egmont Bay](/img/EgmontBay.JPG)
 {{< center >}}
 Egmont Bay
 {{< /center >}}
 
-Eof.
+© Paul Maxan

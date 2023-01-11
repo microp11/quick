@@ -5,16 +5,14 @@ tags: ["kayaking", "trip planning"]
 draft: false
 ---
 
-# DRAFT
-
-> For some time now I was pondering on the idea of circumnavigating [Prince Edward Island](https://www.google.ca/maps/@46.4033276,-62.9856972,8.32z) in a sea kayak. There are roughly around 300 nautical miles if one is to follow the shore closely, save some if paddling straight lines from one point of a large bay to another.
+> For some time now I was pondering on the idea of circumnavigating [Prince Edward Island](https://www.google.ca/maps/@46.4033276,-62.9856972,8.32z) in a sea kayak. There are roughly around 300 nautical miles (555 km) if one is to follow the shore closely, save some if paddling straight lines from one point of a large bay to another.
 
 A few people have done this already, and it is only fair to assume that there are more:
 
 -   [William Arthur "Bill" Reddin and dog Bozo (1934-1935), canoe, counter-clockwise](https://islandvoices.ca/islandora/object/ivoices%3A318)
 -   [Wendy Killoran (May-June 2005), 15 days, clockwise](https://glska.com/around-p-e-i-by-kayak/)
--   [Joseph Simmonds, teen, sea kayak (August 2016), 12 days, counter-clockwise](https://www.cbc.ca/news/canada/prince-edward-island/pei-kayak-1.3729504)
--   [Annette Boerlage, sea kayak, (TODO)](https://fourfeetonadventure.com/)
+-   [Joseph Simmonds, sea kayak (August 2016), 12 days, counter-clockwise](https://www.cbc.ca/news/canada/prince-edward-island/pei-kayak-1.3729504)
+-   [Annette Boerlage, sea kayak (2014-2016)](https://fourfeetonadventure.com/)
 -   [Douglas Russell and Colin Hudson, SUP (June 2020), 12 days, clockwise](https://atlantic.ctvnews.ca/two-veterans-become-first-to-paddleboard-around-p-e-i-for-injured-soldiers-1.5978679)
 
 The purpose of the trip is to challenge oneself, enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip.
@@ -25,66 +23,59 @@ The next step was to see which way to proceed: clockwise or counter-clockwise. T
 
 As a side-note, at the time of writing this, the bridge toll is [$50.25](https://www.confederationbridge.com/tolls-fees) per car.
 
-To get a feel for the winds I went to the [Windy](https://www.windy.com) website and looked for historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. The way the island is positioned in relation to these winds would perhaps indicate that it makes more sense to paddle clockwise... or perhaps not. However I have decided that this paddle will be done clockwise! See Fig 1 below:
+To get a feel for the winds I went to the [Windy](https://www.windy.com) website and looked for historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. The way the island is positioned in relation to these winds would perhaps indicate that it makes more sense to paddle clockwise... or perhaps not. Made up my mind to paddle clockwise!
 
 ![Fig 1](/img/Wind.jpg)
 {{< center >}}
-Fig 1.
+Direction of travel
 {{< /center >}}
 
-With the direction of travel figured out, the next step was to estimate the distance. With the help of Garmin HomePort mapping software I got to 282 nautical miles (Fig 2).
+With the direction of travel figured out, the next step was to estimate the distance. With the help of Garmin HomePort mapping software I got to 282 nautical miles.
 
 ![Fig 2](/img/Around.JPG)
 {{< center >}}
-Fig 2.
+Route
 {{< /center >}}
 
-Knowing the approximate distance, next step is to see how long this trip might take. With a bit of Excel, one can input the distance, the time of paddling and the break time each hour. The sheet would then spit out a bunch of values indicating in days how long it would take one to paddle a given inputted distance, given certain traveling speeds from 2.5 to 4.5 knots (Fig 3):
+Knowing the approximate distance, next step is to see how long this trip might take. With a bit of Excel, one can input the distance, the time of paddling and the break time each hour. The sheet would then spit out a bunch of values indicating in days how long it would take one to paddle a given inputted distance, given certain traveling speeds from 2.5 to 4.5 knots.
 
 ![Fig 3](/img/Calculator.JPG)
 {{< center >}}
-Fig 3.
+Duration estimate
 {{< /center >}}
 
 From experience, when paddling alone my average pace is 3.5 to 4 kts. Start there, and then as I would get tired the average would drop to perhaps 2.5 kts throughout. To avoid any misinterpretations, the total traveling time as indicated by the table does not imply continuous paddling for that many hours a day. It just states that it would take that calculated number of days to circumnavigate.
 
 > Some considerations below
 
-A. The attached [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate this year the maximum current speeds at 1.9 knots just lagging a few days the "Buck Moon" (July 5-7). Just avoid this area in this period as there is no need to paddle a strong opposing current.
+A. The attached [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate the maximum current speeds at 1.9 knots just lagging a few days the "Buck Moon" (July 5-7). Just avoid this area in this period as there is no need to paddle a strong opposing current.
 
-B. The Charlottetown Harbour, although convenient, it isn't the greatest put-in/take-out spot for this trip as it adds 20 nautical miles (1 extra day), and at the very least one overnight plus the food and water needed. And I know the area very well due to numerous paddles here. While the current is significant in the channel, one can stay closer to the shore. See Fig 4 below:
+B. The Charlottetown Harbour, although convenient, it isn't the greatest put-in and take-out spot for this trip as it adds 20 nautical miles (1 extra day). Would be at the very least one overnight plus the food and water needed. While the current is significant in the channel, one can stay closer to the shore.
 
 ![Charlottetown Harbour](/img/Charlottetown.JPG)
 {{< center >}}
-Fig 4.
+Charlottetown Harbour
 {{< /center >}}
 
-C. Hazardous area due to high cliffs near Sea Cow Head Lighthouse. The water is deep and we have a long fetch. The SW wind gets accelerated in the strait and the water builds up quickly. The waves reflect then from the cliffs and we have a chaotic environment. I have been caught unaware once in that spot by a similar build-up. It was not the most pleasant paddle. See Fig 5 below:
+C. Near the Sea Cow Head Lighthouse we are presented with a hazardous area due to high cliffs and deep water. The SW wind gets accelerated in the strait and the water builds up quickly. The waves then reflect from the cliffs and we have a chaotic environment. I have been caught unaware once in this spot by a similar build-up. It was not the most pleasant paddle.
 
 ![Sea Cow Head Lighthouse](/img/SeaCowHeadLighthouse.JPG)
 {{< center >}}
-Fig 5.
+Sea Cow Head Lighthouse
 {{< /center >}}
 
-D. Cape Egmont Lighthouse. I have not paddled in this spot before but it looks similar to the spot near the Sea Cow Head Lighthouse mentioned above. Hazardous area for sure. See Fig 6 below:
+D. Cape Egmont Lighthouse. I have not paddled in this spot before but it looks similar to the spot near the Sea Cow Head Lighthouse mentioned above. Hazardous area for sure.
 
 ![Cape Egmont Lighthouse](/img/CapeEgmontLighthouse.JPG)
 {{< center >}}
-Fig 6.
+Cape Egmont Lighthouse
 {{< /center >}}
 
-E. Egmont Bay. It is a large bay and potentially one could save a lot of time by paddling deeper into the sea. There is however a long fetch for SW strait accelerated wind, and deep water. The sea could built up fast if wind increases. Staying closer to the shore adds to the distance, however it all depends on the conditions at the time. "Hope for the best, prepare for the worst!" See Fig 7 below:
+E. Egmont Bay. It is a large bay and potentially one could save a lot of time by paddling deeper into the sea. There is however a long fetch for SW wind coming from the strait and the water is deep. The sea could build-up fast. Staying closer to the shore adds to the distance and the wave size increases, so it is a balance act in conditions: "Hope for the best, prepare for the worst!"
 
 ![Egmont Bay](/img/EgmontBay.JPG)
 {{< center >}}
-Fig 7.
-{{< /center >}}
-
-F. The Campbelton cliffs look like having the potential to create trouble. Will paddle mindfully. Fig 8 below:
-
-![Campbelton Cliffs](/img/CliffsAtWhitesCove.JPG)
-{{< center >}}
-Fig 8.
+Egmont Bay
 {{< /center >}}
 
 Eof.

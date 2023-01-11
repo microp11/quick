@@ -16,7 +16,7 @@ A few people have done this already, and it is only fair to assume that there ar
 -   [Annette Boerlage, sea kayak (2014-2016), 3 years, puzzle... wise](https://fourfeetonadventure.com/)
 -   [Douglas Russell and Colin Hudson, SUP (June 2020), 12 days, clockwise](https://atlantic.ctvnews.ca/two-veterans-become-first-to-paddleboard-around-p-e-i-for-injured-soldiers-1.5978679)
 
-The purpose of the trip is to challenge oneself, enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip.
+The purpose of the trip is to challenge oneself, enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip. This would be my first solo multi-day paddle.
 
 First step was to figure out when. I think that for PEI the months of June and July are the best for a multi-day paddle. The waters start warming up, there are no bugs, it is not excessively warm which means that there is so no significant weather either, and the daylight time is the longest.
 
@@ -77,6 +77,13 @@ Egmont Bay is a large bay and potentially one could save a lot of time by paddli
 ![Egmont Bay](/img/EgmontBay.JPG)
 {{< center >}}
 Egmont Bay
+{{< /center >}}
+
+The string of islands, narrows and sandbars closing the mouths of Cascumpec and Malpeque bays are known for their hordes of mosquitoes. They are many as stars, conspicuous like dentist drills and more voracious than piranas. Experience! but have an iron tent, an ample pee bottle and stay into hiding. Or better run!
+
+![Cascumpec Bay, Conway Narrows and Malpeque Bay](/img/MalpequeSandBar.JPG)
+{{< center >}}
+Cascumpec Bay, Conway Narrows and Malpeque Bay
 {{< /center >}}
 
 © Paul Maxan

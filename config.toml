@@ -3,9 +3,11 @@ languageCode = "en-us"
 title = "A sea kayak story"
 description = "A sea kayak story"
 theme = "min_night"
+
 disqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
+pluralizelisttitles = "false"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -30,15 +32,15 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.main]]
-    url = "/post/"
-    name = "Posts"
+    url = "/planning/"
+    name = "Planning"
     weight = 2
 
-#[[menu.main]]
-#    url = "/project/"
-#    name = "Projects"
-#    weight = 3
-    
+[[menu.main]]
+    url = "/trip/"
+    name = "Trip"
+    weight = 3
+   
 [[menu.main]]
     url = "/tags/"
     name = "Tags"

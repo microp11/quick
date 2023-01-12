@@ -1,8 +1,8 @@
 ---
 title: "The Provisions"
-date: 2023-01-06
+date: 2023-01-14
 tags: ["provisions", "trip planning"]
-draft: true
+draft: false
 ---
 
-> Food and stuff.
+> Ration and Equipment Planning.

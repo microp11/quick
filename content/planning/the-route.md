@@ -52,7 +52,7 @@ Near the Sea Cow Head Lighthouse we are presented with a hazardous area due to h
 Sea Cow Head Lighthouse
 {{< /center >}}
 
-Around Cape Egmont Lighthouse the strait current has a sensible presence. Augmented by the wind, the spot looks similar to the one near the Sea Cow Head Lighthouse mentioned above. One could clearly see the ebbing patterns on this image from satellite below. Something to be aware of!
+Around Cape Egmont Lighthouse the current in the strait is a sensible presence. Augmented by the wind, the spot looks similar to the one near the Sea Cow Head Lighthouse mentioned above. One could clearly see the ebbing patterns on this image from satellite below. Something to be aware of!
 
 ![Cape Egmont Lighthouse](/img/CapeEgmontLighthouse.JPG)
 {{< center >}}
@@ -73,4 +73,4 @@ The string of islands, narrows and sandbars closing the mouths of Cascumpec and 
 Cascumpec Bay, Conway Narrows and Malpeque Bay
 {{< /center >}}
 
-Eof.
+\_

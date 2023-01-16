@@ -24,6 +24,7 @@ pluralizelisttitles = "false"
     highlight = true
     highlightStyle = "atelier-lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
+    noreadingtime = true
 
 # adjust these as you see fit
 [[menu.main]]

@@ -5,7 +5,11 @@ tags: ["equipment", "provisions", "trip planning"]
 draft: false
 ---
 
-> Equipment (based on [C2TC Sea Kayak Coaching](https://committed2thecore.com/) Expedition Gear Check List)
+> Equipment.
+>
+> The aim is to be self-sufficient for the entire trip.
+>
+> ###### Based on [C2TC Sea Kayak Coaching](https://committed2thecore.com/) expedition gear check list.
 
 #### Camping gear
 
@@ -17,7 +21,7 @@ draft: false
 
 -   Sea kayak with deck compass
 -   Paddle and spare paddle
--   2 paddle floats
+-   2 inflatable paddle floats
 -   Pump and sponge
 -   Chart case and charts
 -   GPS and batteries
@@ -85,3 +89,5 @@ draft: false
 -   Batteries
 
 > Provisions
+>
+> Same as with the equipment, the aim is to be self-sufficient for the entire trip, and only the water should need replenishing.

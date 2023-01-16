@@ -33,7 +33,7 @@ draft: false
 
 #### Clothing on the water (synthetic or wool)
 
--   One thermal layers (tops and bottoms)
+-   One thermal layer (tops and bottoms)
 -   Long sleeve sweater
 -   Socks
 -   Dry suit
@@ -44,19 +44,19 @@ draft: false
 -   Ball cap
 -   Light neoprene gloves
 -   Tow line
--   Neoprene mitts
+-   Neoprene mitts (unsure)
 
 #### Clothing when not on water (synthetic or wool)
 
 -   Ski hat or toque
 -   Rain gear, tops and bottoms
--   One more thermal layers (tops and bottoms)
+-   One more thermal layer (tops and bottoms)
 -   One pair quick dry pants
--   Insulation layer (fleece jacket or expedition weight sweater)
+-   Insulation layer (fleece jacket)
 -   Underwear
 -   Socks
 -   Light waterproof shoes
--   Flip-flops
+-   Flip-flops (unsure)
 
 #### Other items
 
@@ -66,10 +66,10 @@ draft: false
 -   Bug repellant
 -   Small towel
 -   Pocket knife
--   Notebook and pencil
+-   Notebook, pen and pencil
 -   Thermos (with spoon)
 -   Eating utensils (bowl, plate, mug, knife, spoon, fork)
--   Fishing gear
+-   Cuban YoYo
 -   Tarp, rope, extra clips
 -   3 chemical light sticks
 -   Plastic lunch box
@@ -77,10 +77,11 @@ draft: false
 -   One Ikea carrying bag
 -   Alcohol wipes
 -   Phone
--   Solar charger
+-   Solar charger (unsure)
 -   Compact hand saw
 -   On water snacks
 -   Extra garbage and small clear bags
--   Camera and batteries
+-   Camera
+-   Batteries
 
 > Provisions

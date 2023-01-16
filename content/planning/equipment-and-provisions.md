@@ -5,7 +5,7 @@ tags: ["equipment", "provisions", "trip planning"]
 draft: false
 ---
 
-> Equipment
+> Equipment (based on [C2TC Sea Kayak Coaching](https://committed2thecore.com/) Expedition Gear Check List)
 
 #### Camping gear
 

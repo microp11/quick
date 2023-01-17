@@ -17,7 +17,7 @@ pluralizelisttitles = "false"
     description = "A sea kayak story"
     logo = ""
     twitterAuthor = "@microp11sat"
-    githubUsername = ""
+    githubUsername = "microp11"
     accent = "#386890" # dark colors do best
     backgroundColor = "#f5f5f5"
     font = "Mina" # should match the name on Google Fonts!
@@ -61,10 +61,10 @@ pluralizelisttitles = "false"
 #    name = "fab fa-github"
 #    weight = 2
 
-[[menu.icon]]
-    url = "https://twitter.com/microp11sat/"
-    name = "fab fa-twitter"
-    weight = 3
+#[[menu.icon]]
+#    url = "https://twitter.com/microp11sat/"
+#    name = "fab fa-twitter"
+#    weight = 3
 
 [[menu.icon]]
     url = "https://www.facebook.com/pmaxan/"

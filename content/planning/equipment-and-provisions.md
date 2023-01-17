@@ -7,7 +7,7 @@ draft: false
 
 > Equipment.
 >
-> The aim is to be self-sufficient for the entire trip. Wherever possible, the equipment will be all packed in color-coded 5L dry bags.
+> The aim is to be self-sufficient for the entire trip. Wherever possible, the equipment will be packed in 5L dry bags.
 >
 > ###### Based on [C2TC Sea Kayak Coaching](https://committed2thecore.com/) expedition gear check list.
 

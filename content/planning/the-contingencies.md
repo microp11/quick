@@ -5,14 +5,40 @@ tags: ["contingencies", "trip planning"]
 draft: false
 ---
 
-# DRAFT
+> By far the biggest hazard on this trip is paddling alone and I strongly believe that I am prepared.
 
-> By far the biggest hazard on this trip is paddling alone. This needs special considerations.
+Emergency contacts printed on a card on boat:
 
-And then...
+-   VHF channel 16.
+-   911
+-   [Coast Guard SAR PEI](https://www.ccg-gcc.gc.ca/contact/emergency-urgence/search-rescue-recherche-sauvetage-eng.html)
+    -   Toll-free: **1-800-565-1582**
+    -   Telephone: **902-427-8200**
+-   Personal
 
-One needs escape routes or areas to get off the water if the conditions deteriorate. One also needs to know where one can land. Many beaches are exposed to open ocean and may have dangerous surf, making landing impossible. What if the wind comes up? What if I need to call for help? Is there cell coverage? Is there radio coverage? Do I need an EPIRB or maybe some bi-directional type of sat link? What if the forecast is incorrect or changes rapidly? What if I need to cut the trip short? The list goes on…
+In terms of geography, there are areas on this trip where there are high cliffs and it is impossible to land. Due to the positioning of the island in St. Lawrence Bay, there is very little swell on PEI and that greatly increases one's peace of mind regarding unexpected water behaviour. However there are spots where dangerous surf can form that would make landing/launching very difficult or impossible.
 
-The last part of contingency planning is completing a float plan. Luckily I know a few fellow kayakers who I would trust this with. I would communicate the plan for the day, what is the starting point and the target. I trust that, if anything, they could analyze the conditions and predict my actions.
+There are extensive beaches, dunes and sand bars where in case of an electric storm there is not much hiding available. Luckily there are not many thunderstorms in PEI during the months of June and early July. Squalls could form however anytime.
+
+There are areas with little or no cell coverage. The VHS goes line-of-sight only.
+
+Navigation information and aids:
+
+-   Environment Canada
+    -   [Canadian Hydrographic Service printed charts](https://charts.gc.ca/charts-cartes/chart-index-carte-eng.html)
+    -   [Marine weather forecast for Atlantic Maritimes](https://weather.gc.ca/marine/index_e.html) for Northumberland Strait and Gulf of Magdalens.
+    -   VHF maritime weather
+-   [Windy](https://www.windy.com)
+-   [Windfinder](https://www.windfinder.com)
+-   [Tide stations](https://www.tides.gc.ca/en/current-predictions-station)
+-   GPS maps
+-   [Navionics](https://www.navionics.com/)
+-   [Google Maps](https://www.google.ca/maps)
+
+Food would not be a problem, and the plan is to replenish the water along the way.
+
+If for any reason I need to cut the trip short, transportation is arranged.
+
+The **float plan**. Left with someone that knows me and the way I paddle. I trust that, if anything, they could analyze the local conditions and predict my actions.
 
 \_

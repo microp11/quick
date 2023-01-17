@@ -1,6 +1,6 @@
 ---
 title: "The Contingencies"
-date: 2023-01-11
+date: 2023-01-08
 tags: ["contingencies", "trip planning"]
 draft: false
 ---

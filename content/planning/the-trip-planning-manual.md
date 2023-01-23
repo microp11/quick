@@ -1,10 +1,13 @@
 ---
-title: "The Reflection"
-date: 2023-01-10
+title: "The Trip Planning Manual"
+date: 2022-02-27
+tags: ["manual", "trip planning"]
 draft: true
 ---
 
 ### Trip Planning
+
+> ###### From [C2TC Sea Kayak Coaching](https://committed2thecore.com/) Paddle Canada Level 1 manual.
 
 Have you ever heard the following phrase: "Plan the work, work the plan"? This implies that planning and knowledge determine the outcome of a complex event and that it’s the quality of the planning, not necessarily the execution, that dictates success or failure. The success of any trip is determined before the first dip of the paddle.
 
@@ -33,3 +36,5 @@ When determining what food to take, be careful to select foods that travel well 
 > Rung #5 Reflection
 
 Good Judgment, a combination of experience and reflection is something every paddler should strive for. Paddling a lot is not enough. We should reflect on the successes and challenges faced during each trip and use these lessons in future trip plans. What did you do well? What could have been done better? Also consider some reflection as a group. Following up on the trip with each other to share photos or just to discuss the trip over dinner is an important part of the reflection process.
+
+\_

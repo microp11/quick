@@ -9,9 +9,9 @@ draft: false
 
 Emergency contacts printed on a card on boat:
 
--   VHF channel 16.
+-   VHF channel 16
 -   911
--   [Coast Guard SAR PEI](https://www.ccg-gcc.gc.ca/contact/emergency-urgence/search-rescue-recherche-sauvetage-eng.html)
+-   [Coast Guard](https://www.ccg-gcc.gc.ca/contact/emergency-urgence/search-rescue-recherche-sauvetage-eng.html)
     -   Toll-free: **1-800-565-1582**
     -   Telephone: **902-427-8200**
 -   Personal
@@ -26,7 +26,7 @@ Navigation information and aids:
 
 -   Environment Canada
     -   [Canadian Hydrographic Service printed charts](https://charts.gc.ca/charts-cartes/chart-index-carte-eng.html)
-    -   [Marine weather forecast for Atlantic Maritimes](https://weather.gc.ca/marine/index_e.html) for Northumberland Strait and Gulf of Magdalens.
+    -   [Marine weather forecast Atlantic Maritimes](https://weather.gc.ca/marine/index_e.html) for Northumberland Strait and Gulf of Magdalens.
     -   VHF maritime weather
 -   [Windy](https://www.windy.com)
 -   [Windfinder](https://www.windfinder.com)
@@ -35,7 +35,7 @@ Navigation information and aids:
 -   [Navionics](https://www.navionics.com/)
 -   [Google Maps](https://www.google.ca/maps)
 
-Food would not be a problem, and the plan is to replenish the water along the way.
+Carry the food for the entire trip and replenish the water along the way.
 
 If for any reason I need to cut the trip short, transportation is arranged.
 

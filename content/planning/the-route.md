@@ -36,7 +36,12 @@ From experience, when paddling alone my average pace is 3.5 to 4 kts. Start ther
 
 > Some considerations below
 
-The freely available [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate the maximum current speeds at 1.9 knots (July 5-7) just lagging a few days the "Buck Moon". Just avoid this area in this period as there is no need to paddle a strong opposing current.
+The freely available [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate the maximum current speeds at 1.9 knots (July 5-7) just lagging a few days the "Buck Moon". Calculate correctly and one could fly through the area! The live visualization app from [St. Lawrence Global Observatory](https://navigation2.preprod.ogsl.ca/) presents an amazing aid in visualizing the currents.
+
+![OGSL](/img/SLGO.JPG)
+{{< center >}}
+OGSL Navigation
+{{< /center >}}
 
 The Charlottetown Harbour, although convenient, it is not the greatest put-in and take-out spot for this trip as it adds 20 nautical miles (1 extra day). Would be at the very least one overnight plus the food and water needed. While the current is significant in the channel, it is for a short distance and one can stay closer to the shore.
 

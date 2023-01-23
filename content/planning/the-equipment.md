@@ -1,7 +1,7 @@
 ---
-title: "Equipment and provisions"
+title: "The Equipment"
 date: 2023-01-15
-tags: ["equipment", "provisions", "trip planning"]
+tags: ["equipment", "trip planning"]
 draft: false
 ---
 
@@ -73,7 +73,7 @@ draft: false
 -   Notebook, pen and pencil
 -   Thermos (with spoon)
 -   Eating utensils (bowl, plate, mug, knife, spoon, fork)
--   Cuban YoYo
+-   Cuban YoYo (unsure)
 -   Tarp, rope, extra clips
 -   3 chemical light sticks
 -   Plastic lunch box
@@ -88,6 +88,4 @@ draft: false
 -   Camera
 -   Batteries
 
-> Provisions
->
-> Same as with the equipment, the aim is to be self-sufficient for the entire trip, and only the water should need replenishing.
+\_

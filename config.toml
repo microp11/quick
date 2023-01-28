@@ -37,45 +37,56 @@ pluralizelisttitles = "false"
     name = "Planning"
     weight = 2
 
+
+[[menu.main]]
+    url = "/training/"
+    name = "Training"
+    weight = 3
+
 [[menu.main]]
     url = "/trip/"
     name = "Trip"
-    weight = 3
-   
+    weight = 4
+
 [[menu.main]]
     url = "/tags/"
     name = "Tags"
-    weight = 4
+    weight = 5
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
 
-#[[menu.icon]]
-#    url = "mailto:pmaxan@yahoo.com"
-#    name = "far fa-envelope"
-#    weight = 1
+[[menu.icon]]
+    url = "mailto:pmaxan@yahoo.com"
+    name = "far fa-envelope"
+    weight = 1
 
-#[[menu.icon]]
-#    url = "https://github.com/microp11"
-#    name = "fab fa-github"
-#    weight = 2
+# [[menu.icon]]
+#     url = "https://github.com/microp11"
+#     name = "fab fa-github"
+#     weight = 2
 
-#[[menu.icon]]
-#    url = "https://twitter.com/microp11sat/"
-#    name = "fab fa-twitter"
-#    weight = 3
+# [[menu.icon]]
+#     url = "https://bitbucket.org/scytalec/"
+#     name = "fab fa-bitbucket"
+#     weight = 3
+
+[[menu.icon]]
+    url = "https://twitter.com/microp11sat/"
+    name = "fab fa-twitter"
+    weight = 4
 
 [[menu.icon]]
     url = "https://www.facebook.com/pmaxan/"
     name = "fab fa-facebook"
-    weight = 4
+    weight = 5
 
-#[[menu.icon]]
-#    url = "https://www.linkedin.com/in/nathan-day-59b48435/"
-#    name = "fab fa-linkedin"
-#    weight = 4
-#
+# [[menu.icon]]
+#     url = "https://www.linkedin.com/in/paul-maxan-44b41346/"
+#     name = "fab fa-linkedin"
+#     weight = 6
+
 #[[menu.icon]]
 #    url = "https://www.stackoverflow.com/users/5878751/nate"
 #    name = "fab fa-stack-overflow"

@@ -43,6 +43,8 @@ The freely available [2023 Canadian Tide and Current tables for the Gulf of St.L
 OGSL Navigation
 {{< /center >}}
 
+Another excellent resource for navigation is the also freely available [Canadian Sailing Directions](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-ATL108-eng-202208-41069122.pdf) manual ATL-108. For weather considerations [Where the Wind Blows](https://publications.gc.ca/collections/collection_2019/eccc/En56-112-1995-eng.pdf) is an excellent resource.
+
 The Charlottetown Harbour, although convenient, it is not the greatest put-in and take-out spot for this trip as it adds 20 nautical miles (1 extra day). Would be at the very least one overnight plus the food and water needed. While the current is significant in the channel, it is for a short distance and one can stay closer to the shore.
 
 ![Charlottetown Harbour](/img/Charlottetown.JPG)

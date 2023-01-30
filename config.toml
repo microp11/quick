@@ -39,8 +39,8 @@ pluralizelisttitles = "false"
 
 
 [[menu.main]]
-    url = "/training/"
-    name = "Training"
+    url = "/dry-run/"
+    name = "Dry-run"
     weight = 3
 
 [[menu.main]]

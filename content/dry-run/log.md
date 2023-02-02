@@ -1,24 +1,17 @@
 ---
-title: "Around the island with the Xeon ergometer"
-date: 2023-01-28
+title: "Around the island with Xeon Kayak Ergometer"
+date: 2023-02-01
 draft: false
 ---
 
-> January 29, 2023
+> February 1, 2023
 
-![January 29](/img/jan29.JPG)
+![February 1](/img/feb1.JPG)
 {{< center >}}
-Settings: 77/39/61"
+64 nautical miles, or 119 Km
 {{< /center >}}
 
-> January 24-28, 2023
-
-![January 24 to January 28](/img/jan24-jan28.JPG)
-{{< center >}}
-Settings: 76/40/61"
-{{< /center >}}
-
-The ergometer: [Xeon](https://www.kayakpro.com/xeon/)
+[Xeon](https://www.kayakpro.com/xeon/) is a heavy-use Kayak Ergometer, that gives a true feel of on-the-water paddling.
 
 ![Equivalent paddle length for Xeon](/img/equivalent-paddle-length.JPG)
 {{< center >}}

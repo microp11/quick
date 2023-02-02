@@ -39,7 +39,7 @@ pluralizelisttitles = "false"
 
 
 [[menu.main]]
-    url = "/dry-run/"
+    url = "/dry-run/log/"
     name = "Dry-run"
     weight = 3
 

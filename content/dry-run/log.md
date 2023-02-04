@@ -4,11 +4,16 @@ date: 2023-02-01
 draft: false
 ---
 
-> February 1, 2023
+> February 3, 2023
 
-![February 1](/img/feb1.JPG)
+![February 3](/img/feb3.JPG)
 {{< center >}}
-64 nautical miles, or 119 Km
+82.8 nautical miles, or 154 Km
+{{< /center >}}
+
+![Stats](/img/Stats.JPG)
+{{< center >}}
+Stats
 {{< /center >}}
 
 [Xeon](https://www.kayakpro.com/xeon/) is a heavy-use Kayak Ergometer, that gives a true feel of on-the-water paddling.
@@ -18,9 +23,10 @@ draft: false
 Equivalent paddle length for Xeon
 {{< /center >}}
 
-![Stats](/img/Stats.JPG)
-{{< center >}}
-Stats
-{{< /center >}}
+```
+The correct way to manage fear is to gradually broaden your comfort zone until your comfort zone includes things that seemed previously impossible.
+
+Alex Honnold
+```
 
 \_

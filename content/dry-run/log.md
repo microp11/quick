@@ -4,11 +4,11 @@ date: 2023-01-21
 draft: false
 ---
 
-> February 5, 2023
+> February 7, 2023
 
-![February 5](/img/feb5.JPG)
+![February 7](/img/feb7.JPG)
 {{< center >}}
-88 nautical miles, or 164 Km
+99 nautical miles, or 184 Km
 {{< /center >}}
 
 ![Stats](/img/Stats.JPG)

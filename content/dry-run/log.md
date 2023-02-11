@@ -1,14 +1,14 @@
 ---
-title: "Around the island with Xeon Kayak Ergometer"
+title: "PEI-go-round with Xeon Kayak Ergometer"
 date: 2023-01-21
 draft: false
 ---
 
-> February 7, 2023
+> February 10, 2023
 
-![February 7](/img/feb7.JPG)
+![February 10](/img/feb10.JPG)
 {{< center >}}
-99 nautical miles, or 184 Km
+109.6 nautical miles, or 204 Km
 {{< /center >}}
 
 ![Stats](/img/Stats.JPG)

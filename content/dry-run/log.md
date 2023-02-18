@@ -4,11 +4,13 @@ date: 2023-01-21
 draft: false
 ---
 
-> February 10, 2023
+> These runs are in a perfect environment on an ergometer, with no boat weight and actual conditions.
 
-![February 10](/img/feb10.JPG)
+> February 17, 2023
+
+![February 17](/img/feb17.JPG)
 {{< center >}}
-109.6 nautical miles, or 204 Km
+142 nautical miles, or 264 Km
 {{< /center >}}
 
 ![Stats](/img/Stats.JPG)

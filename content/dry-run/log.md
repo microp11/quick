@@ -4,13 +4,13 @@ date: 2023-01-21
 draft: false
 ---
 
-> These runs are in a perfect environment on an ergometer, with no boat weight and actual conditions.
+> This is not the actual trip. This is just training mapped on chart to have an idea of what the real thing might be.
 
-> February 18, 2023
+> February 23, 2023
 
-![February 18](/img/feb18.JPG)
+![February 23](/img/feb23.JPG)
 {{< center >}}
-143.2 nautical miles, or 266.5 Km
+25 days of ergo, 193 nautical miles, or 359 Km
 {{< /center >}}
 
 ![Stats](/img/Stats.JPG)

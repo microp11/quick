@@ -10,6 +10,7 @@ draft: false
 Emergency contacts printed on a card on boat:
 
 -   VHF channel 16
+-   In Atlantic Canada cell dialing **\*16** takes you directly to the Joint Rescue Coordination Centre (JRCC) Halifax
 -   911
 -   [Coast Guard](https://www.ccg-gcc.gc.ca/contact/emergency-urgence/search-rescue-recherche-sauvetage-eng.html)
     -   Toll-free: **1-800-565-1582**

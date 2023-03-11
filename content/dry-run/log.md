@@ -6,11 +6,11 @@ draft: false
 
 > This is not the actual trip. This is just training mapped on chart to have an idea of what the real thing might be.
 
-> March 6, 2023
+> March 10, 2023
 
-![March 6](/img/mar6.JPG)
+![March 10](/img/mar10.JPG)
 {{< center >}}
-31 days on ergo, 248 nautical miles, 462 Km
+33 days on ergo, 281 nautical miles, 522 Km, one full lap around PEI
 {{< /center >}}
 
 ![Stats](/img/Stats.JPG)

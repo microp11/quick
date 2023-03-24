@@ -11,14 +11,14 @@ The next step was to see which way to proceed: clockwise or counter-clockwise. T
 
 As a side-note, at the time of writing this, the bridge toll is [$50.25](https://www.confederationbridge.com/tolls-fees) per car.
 
-To get a feel for the winds I went to the [Windy](https://www.windy.com) website and looked for historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. In the graph below, the red arrows and text indicate the direction and the force of the wind. The way the island is positioned in relation to these winds would perhaps indicate that it makes more sense to paddle clockwise... or perhaps not. Made up my mind to paddle clockwise!
+To get a feel for the winds I went to the [Windy](https://www.windy.com) website and looked for historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. In the graph below, the red arrows and text indicate the direction and the force of the wind. The way the island is positioned in relation to these winds would perhaps indicate that it makes more sense to paddle clockwise... or perhaps not. Will just listen to what the sea has to say!
 
 ![Fig 1](/img/Wind.jpg)
 {{< center >}}
 Direction of travel
 {{< /center >}}
 
-With the direction of travel figured out, the next step was to estimate the distance. With the help of Garmin HomePort mapping software I got to 282 nautical miles.
+The next step was to estimate the distance. With the help of Garmin HomePort mapping software I got to 282 nautical miles.
 
 ![Fig 2](/img/Around.JPG)
 {{< center >}}

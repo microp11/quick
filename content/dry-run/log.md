@@ -6,11 +6,11 @@ draft: false
 
 > This is not the actual trip. This is just training mapped on chart to have an idea of what the real thing might be.
 
-> March 28, 2023, lap2
+> March 30, 2023, lap2
 
-![March 28](/img/mar28.JPG)
+![March 30](/img/mar30.JPG)
 {{< center >}}
-10 days on ergo, 113 nautical miles, 210 km, lap2
+11 days on ergo, 123.6 nautical miles, 230 km, lap2
 {{< /center >}}
 
 ![Stats](/img/Stats2.JPG)

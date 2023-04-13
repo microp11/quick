@@ -6,11 +6,13 @@ draft: false
 
 > This is not the actual trip. This is just training mapped on chart to have an idea of what the real thing might be.
 
-> April 4, 2023, lap2
+Since January 24, 53 days of training on the ergometer totalling 485 nautical miles, 902 km.
 
-![April 4](/img/apr4.JPG)
+> April 12, 2023, lap2
+
+![April 12](/img/apr9.JPG)
 {{< center >}}
-15 days on ergo, 172 nautical miles, 320 km, lap2
+18 days on ergo, 204 nautical miles, 380 km, lap2
 {{< /center >}}
 
 ![Stats](/img/Stats2.JPG)

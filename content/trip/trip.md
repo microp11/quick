@@ -10,4 +10,4 @@ draft: false
 
 > 2023: North Rustico to Cap Egmont, 9 days, 200 nautical miles or 370 km.
 
-![2023](/img/leg1-2023.JPG)
+![2023](/img/2023.JPG)

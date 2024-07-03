@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/microp11/microp11.github.io.git
+	branch = main

@@ -18,4 +18,4 @@ A few people have done this already, and it is only fair to assume that there ar
 
 The purpose of the trip is to challenge oneself, to enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip. This is going to be fun! my first solo multi-day paddle.
 
-> Even the best plans sometime fail. Stop and regroup. I did not complete my circumnavigation in 2023. I have paddled clockwise from North Rustico to Cap Egmont, about 350km. The remaining 200km, from Cap Egmont to North Rustico will be completed this year, 2024.
+> Even the best plans sometime fail. Stop and regroup. I did not complete my circumnavigation in 2023. I have paddled clockwise from North Rustico to Cape Egmont, about 350km. The remaining 200km, from Cape Egmont to North Rustico will be completed this year, 2024.

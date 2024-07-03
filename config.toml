@@ -39,12 +39,12 @@ pluralizelisttitles = "false"
 
 
 [[menu.main]]
-    url = "/training/log/"
+    url = "/training/training/"
     name = "Training"
     weight = 3
 
 [[menu.main]]
-    url = "/trip/leg1"
+    url = "/trip/trip"
     name = "Trip"
     weight = 4
 

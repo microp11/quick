@@ -1,14 +1,14 @@
 ---
-title: "PEI-go-round on the Xeon Kayak Ergometer"
+title: "Training"
 date: 2024-07-03
 draft: false
 ---
 
-> This is not the actual trip. This is just training mapped on chart to have an idea of what the real thing might be.
+> Not the actual trip, just training mapped on chart to have an idea of what the real thing might take.
 
-> July 3, 2024, days of building on-water confidence, with [C2TC Sea Kayak Coaching](https://committed2thecore.com/)
+> 2024, building on-water confidence, with [C2TC Sea Kayak Coaching](https://committed2thecore.com/) in [NS](https://www.facebook.com/reel/3316194118677419).
 
-> May 14, 2023, lap2
+> May 14, 2023, 1000 km on ergo!
 
 28 days on ergo, 263 nautical miles, 490 km
 

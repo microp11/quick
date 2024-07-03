@@ -1,7 +1,7 @@
 ---
 title: "The Equipment"
 date: 2023-01-15
-tags: ["equipment", "trip planning"]
+tags: []
 draft: false
 ---
 
@@ -13,79 +13,69 @@ draft: false
 
 #### Camping gear
 
--   Small compact tent
--   Sleeping bag and liner (stored in a plastic bag inside a compression bag)
--   Inflatable sleeping mattress (the thicker the better)
+- Small compact tent (stored in a plastic bag)
+- Sleeping bag (stored in a plastic bag inside a compression bag)
+- Inflatable sleeping mattress (the thicker the better) and inflatable pillow
+- Headlamp and tent lamp
 
 #### Paddling gear
 
--   Sea kayak with deck compass
--   Paddle and spare paddle
--   2 inflatable paddle floats
--   Pump and sponge
--   Chart case and charts
--   GPS and batteries
+- Sea kayak with deck compass
+- Paddle and spare paddle
+- 2 inflatable paddle floats
+- Sponge and bilge pump
+- Chart case and charts
+- GPS and batteries (4 AA per 3 days, duracell type)
 
 #### Kits
 
--   First aid kit
--   Boat repair kit
--   Toilet kit (toilet paper, alcohol wipes, lighter, headlamp)
--   Ouch kit (band-aids, pain killers, antacid, alcohol wipes, lidocaine gel)
--   Cooking kit (stove, fuel and lighters, small kettle, cooking pot, frying pan, knife and cutting board, ladle, tongs, salt, pepper, spices, washing station)
--   Coffee kit (coffee, filters, filter holder)
+- First aid kit
+- Boat repair kit
+- Toilet kit (1 roll toilet paper, alcohol wipes, 1 lighter, headlamp)
+- Ouch kit (band-aids, pain killers, antacid, antibiotic ointment)
+- Cooking kit (stove, 1 fuel canister, 1 lighter, cooking pot, knife)
 
 #### Clothing on the water (synthetic or wool)
 
--   One thermal layer (tops and bottoms)
--   Long sleeve sweater
--   Socks
--   Dry suit
--   Spray skirt
--   Personal PFD (whistle, watch, strobe, handheld compass, grease pen, 2L hydration pack, VHF)
--   Footwear
--   Helmet
--   Ball cap
--   Light neoprene gloves
--   Tow line
--   Neoprene mitts (unsure)
+- One thermal layer (tops and bottoms)
+- Long sleeve sweater
+- Socks
+- Dry suit
+- Spray skirt
+- Personal PFD (whistle, watch, strobe, handheld compass, grease pen, 2L hydration pack, VHF, GPS)
+- Footwear
+- Ball cap
+- Tow line
+- Tow rope
+- Neoprene mitts
+- Sun glasses with straps
 
 #### Clothing when not on water (synthetic or wool)
 
--   Ski hat or toque
--   Rain gear, tops and bottoms
--   One more thermal layer (tops and bottoms)
--   One pair quick dry pants
--   Insulation layer (fleece jacket)
--   Underwear
--   Socks
--   Light waterproof shoes
--   Flip-flops (unsure)
+- Ski hat or toque
+- Rain gear (light), tops and bottoms
+- Two more thermal layers (tops and bottoms, sockes)
+- Insulation layer (fleece jacket)
+- Light shoes with a hard sole (crocs)
 
 #### Other items
 
--   1 extra handheld compass
--   Sun screen and sun glasses
--   3 headlamps and batteries (one in the toilet kit, one in the sleeping bag and one in the day hatch)
--   Bug repellant
--   Small towel
--   Pocket knife
--   Notebook, pen and pencil
--   Thermos (with spoon)
--   Eating utensils (bowl, plate, mug, knife, spoon, fork)
--   Cuban YoYo (unsure)
--   Tarp, rope, extra clips
--   3 chemical light sticks
--   Plastic lunch box
--   One extra rope
--   One Ikea carrying bag
--   Alcohol wipes
--   Phone
--   Solar charger (unsure)
--   Compact hand saw
--   On water snacks
--   Extra garbage and small clear bags
--   Camera
--   Batteries
+- Clock or extra watch with alarm
+- Extra ball cap
+- Glasses
+- Small mirror
+- Sun screen
+- Bug repellant
+- Small towel
+- Pocket knife
+- Notebook, pen, voice recorder
+- Eating thermos
+- Eating utensils (spoon, fork)
+- 3 chemical light sticks
+- One extra rope
+- Two Ikea carrying bags
+- Phone, battery pack, and cable
+- Solar charger
+- Extra plastic bags
 
 \_

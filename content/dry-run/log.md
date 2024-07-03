@@ -8,37 +8,32 @@ draft: false
 
 > May 14, 2023, lap2
 
+28 days on ergo, 263 nautical miles, 490 km
+
 ![May 14](/img/may14.JPG)
-{{< center >}}
-28 days on ergo, 263 nautical miles, 490 km, lap2
-{{< /center >}}
+
+Stats
 
 ![Stats](/img/Stats2.JPG)
-{{< center >}}
-Stats
-{{< /center >}}
 
 > March 10, 2023, lap1
 
+33 days on ergo, 281 nautical miles, 522 km
+
 ![March 10](/img/mar10.JPG)
-{{< center >}}
-33 days on ergo, 281 nautical miles, 522 km, lap 1
-{{< /center >}}
+
+Stats
 
 ![Stats](/img/Stats.JPG)
-{{< center >}}
-Stats
-{{< /center >}}
 
 [Xeon](https://www.kayakpro.com/xeon/) is a heavy-use Kayak Ergometer, that gives a true feel of on-the-water paddling.
 
-![Xeon ergometer shaft to paddle length](/img/equivalent-paddle-length.JPG)
-{{< center >}}
 Xeon ergometer shaft to paddle length
-{{< /center >}}
+
+![Xeon ergometer shaft to paddle length](/img/equivalent-paddle-length.JPG)
 
 ```
-The correct way to manage fear is to gradually broaden your comfort zone until your comfort zo-ne includes things that seemed previously impossible.
+The correct way to manage fear is to gradually broaden your comfort zone until your comfort zone includes things that seemed previously impossible.
 
 Alex Honnold
 ```

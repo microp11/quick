@@ -1,7 +1,7 @@
 ---
 title: "The Goal"
 date: 2022-03-01
-tags: ["goal", "trip planning"]
+tags: []
 draft: false
 ---
 
@@ -9,13 +9,16 @@ draft: false
 
 A few people have done this already, and it is only fair to assume that there are more:
 
--   [William Arthur "Bill" Reddin and dog Bozo, canoe (1934-1935), counter-clockwise](https://islandvoices.ca/islandora/object/ivoices%3A318)
--   [Reinhard Zollitsch, sea canoe (1996-2001), 16 days spanning 6 years, clockwise](http://www.zollitschcanoeadventures.com/articles/pei.html)
--   [Wendy Killoran, sea kayak (May-June 2005), 15 days, clockwise](https://glska.com/around-p-e-i-by-kayak/)
--   [Joseph Simmonds, sea kayak (August 2016), 12 days, counter-clockwise](https://www.cbc.ca/news/canada/prince-edward-island/pei-kayak-1.3729504)
--   [Annette Boerlage, sea kayak (2014-2016), spanning 3 years, using her bike as a shuttle](https://fourfeetonadventure.com/)
--   [Douglas Russell and Colin Hudson, SUP (June 2020), 12 days, clockwise](https://atlantic.ctvnews.ca/two-veterans-become-first-to-paddleboard-around-p-e-i-for-injured-soldiers-1.5978679)
+- [William Arthur "Bill" Reddin and dog Bozo, canoe (1934-1935), counter-clockwise](https://islandvoices.ca/islandora/object/ivoices%3A318)
+- [Reinhard Zollitsch, sea canoe (1996-2001), 16 days spanning 6 years, clockwise](http://www.zollitschcanoeadventures.com/articles/pei.html)
+- [Wendy Killoran, sea kayak (May-June 2005), 15 days, clockwise](https://glska.com/around-p-e-i-by-kayak/)
+- [Joseph Simmonds, sea kayak (August 2016), 12 days, counter-clockwise](https://www.cbc.ca/news/canada/prince-edward-island/pei-kayak-1.3729504)
+- [Annette Boerlage, sea kayak (2014-2016), spanning 3 years, using her bike as a shuttle](https://fourfeetonadventure.com/)
+- [Douglas Russell and Colin Hudson, SUP (June 2020), 12 days, clockwise](https://atlantic.ctvnews.ca/two-veterans-become-first-to-paddleboard-around-p-e-i-for-injured-soldiers-1.5978679)
 
 The purpose of the trip is to challenge oneself, to enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip. This is going to be fun! my first solo multi-day paddle.
+
+> Update
+> For various reasons, I was not able to complete my circumnavigation in 2023. I have paddled clockwise from North Rustico to Cap Egmont, about 350km. The remaining leg, 200km, from Cap Egmont to North Rustico will be completed in July 2024.
 
 \_

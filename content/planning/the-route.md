@@ -5,11 +5,9 @@ tags: []
 draft: false
 ---
 
-> With the goal clear in my mind, first step was to figure out "when". I think that for PEI, the months of June and July are the best for a multi-day paddle. The waters start warming up, there are no bugs, it is not excessively warm which means that there is no significant weather either, and the daylight time is at its longest.
+With the goal clear in my mind, first step was to figure out "when". I think that for PEI, the months of June and July are the best for a multi-day paddle. The waters start warming up, there are no bugs, it is not excessively warm which means that there is no significant weather either, and the daylight time is at its longest.
 
-**Direction of travel**: The next step was to see which way to proceed: clockwise or counter-clockwise. This took some time discussing with friends and fellow kayakers, and also looking at what other paddlers have done. Around PEI the wind is usually the most important factor, followed by current. The strongest currents are in the strait around the Trans-Canada Highway bridge. Picking up neap tides while traversing this area would make the paddling easier.
-
-As a side-note, at the time of writing this, the bridge toll is [$50.25](https://www.confederationbridge.com/tolls-fees) per car.
+The next step was to see **which way to proceed: clockwise or counter-clockwise**. This took some time discussing with friends and fellow kayakers, and also looking at what other paddlers have done. Around PEI the wind is usually the most important factor, followed by current. The strongest currents are in the strait around the Trans-Canada Highway bridge. Picking up neap tides while traversing this area would make the paddling easier.
 
 To get a feel for the winds I went to the [Windy](https://www.windy.com) website and looked for historical data on the winds around PEI. The prevailing winds during summer are the south-westerlies. The north shore would then be mostly in the lee. In the graph below, the red arrows and text indicate the direction and the force of the wind. The way the island is positioned in relation to these winds would perhaps indicate that it makes more sense to paddle clockwise... or perhaps not. Will just listen to what the sea has to say!
 
@@ -28,8 +26,6 @@ From experience, when paddling alone my average pace is 3.5 to 4 kts. Start ther
 > Some considerations below
 
 The freely available [2023 Canadian Tide and Current tables for the Gulf of St.Lawrence](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/chs-shc-tct-tmc-vol2-202301-41085085.pdf), pages 57-58, indicate the maximum current speeds at 1.9 knots (July 5-7) just lagging a few days the "Buck Moon". Calculate correctly and one could fly through the area! The live visualization app from [St. Lawrence Global Observatory](https://navigation2.preprod.ogsl.ca/) presents an amazing aid in visualizing the currents.
-
-OGSL Navigation
 
 ![OGSL](/img/SLGO.JPG)
 
@@ -54,5 +50,3 @@ Around **Cape Egmont Lighthouse** the current in the strait is a sensible presen
 The string of islands, narrows and sandbars closing the mouths of **Cascumpec Bay** and **Malpeque Bay** are known for their hordes of mosquitoes. They are many as to cover all stars, inconspicuous as dentist drills and more voracious than piranas. Experience the pristine beaches! but have an iron tent, an ample pee bottle and stay into hiding. Or better run!
 
 ![Cascumpec Bay, Conway Narrows and Malpeque Bay](/img/MalpequeSandBar.JPG)
-
-\_

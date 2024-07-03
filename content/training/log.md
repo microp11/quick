@@ -1,10 +1,12 @@
 ---
-title: "PEI-go-round with Xeon Kayak Ergometer"
-date: 2023-01-21
+title: "PEI-go-round on the Xeon Kayak Ergometer"
+date: 2024-07-03
 draft: false
 ---
 
 > This is not the actual trip. This is just training mapped on chart to have an idea of what the real thing might be.
+
+> July 3, 2024, days of building on-water confidence, with [C2TC Sea Kayak Coaching](https://committed2thecore.com/)
 
 > May 14, 2023, lap2
 

@@ -7,7 +7,7 @@ draft: false
 
 > Equipment.
 >
-> The aim is to be self-sufficient for the entire trip. Wherever possible, the equipment will be packed in 5L dry bags.
+> The aim is to be self-sufficient for the entire trip. Wherever possible, the equipment will be packed in 8L dry bags.
 >
 > ###### Based on [C2TC Sea Kayak Coaching](https://committed2thecore.com/) expedition gear check list.
 
@@ -25,7 +25,8 @@ draft: false
 - 2 inflatable paddle floats
 - Sponge and bilge pump
 - Chart case and charts
-- GPS and batteries (4 AA per 3 days, duracell type)
+- VHF radio
+- GPS
 
 #### Kits
 
@@ -60,6 +61,7 @@ draft: false
 
 #### Other items
 
+- Batteries for GPS (4 AA per 3 days, duracell type)
 - Clock or extra watch with alarm
 - Extra ball cap
 - Glasses
@@ -74,8 +76,6 @@ draft: false
 - 3 chemical light sticks
 - One extra rope
 - Two Ikea carrying bags
-- Phone, battery pack, and cable
-- Solar charger
+- Phone, battery pack, and solar charger
+- Phone charger that fits GFCI outlets with cover
 - Extra plastic bags
-
-\_

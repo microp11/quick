@@ -23,6 +23,7 @@ draft: false
 - Sea kayak with deck compass
 - Paddle and spare paddle
 - 2 inflatable paddle floats
+- Tow rope
 - Sponge and bilge pump
 - Chart case and charts
 - VHF radio
@@ -39,32 +40,30 @@ draft: false
 #### Clothing on the water (synthetic or wool)
 
 - One thermal layer (tops and bottoms)
-- Long sleeve sweater
 - Socks
 - Dry suit
 - Spray skirt
-- Personal PFD (whistle, watch, strobe, handheld compass, grease pen, 2L hydration pack, VHF, GPS)
+- Personal PFD (whistle, watch, strobe, handheld compass, grease pen, 2L hydration pack, VHF, GPS, folding knife, electrical tape, band-aids)
 - Footwear
 - Ball cap
 - Tow line
-- Tow rope
 - Neoprene mitts
-- Sun glasses with straps
+- Sun glasses with strap
 
 #### Clothing when not on water (synthetic or wool)
 
 - Ski hat or toque
-- Rain gear (light), tops and bottoms
-- Two more thermal layers (tops and bottoms, sockes)
+- Rain gear, tops and bottoms
+- Two more thermal layers (tops and bottoms, socks)
 - Insulation layer (fleece jacket)
 - Light shoes with a hard sole (crocs)
 
 #### Other items
 
-- Batteries for GPS (4 AA per 3 days, duracell type)
+- Batteries for GPS (2 AA per day, Duracell type)
 - Clock or extra watch with alarm
 - Extra ball cap
-- Glasses
+- Extra glasses with strap
 - Small mirror
 - Sun screen
 - Bug repellant
@@ -74,8 +73,7 @@ draft: false
 - Eating thermos
 - Eating utensils (spoon, fork)
 - 3 chemical light sticks
-- One extra rope
-- Two Ikea carrying bags
+- Two Ikea carrying bags (load/unload/carry)
 - Phone, battery pack, and solar charger
-- Phone charger that fits GFCI outlets with cover
+- Small phone charger that fits GFCI outlets with cover
 - Extra plastic bags

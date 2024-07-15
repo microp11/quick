@@ -22,4 +22,4 @@ The purpose of the trip is to challenge oneself, to enjoy and explore. Speed of 
 
 June 13th 2024, happy to be adding myself to the list of people that have circumnavigated the island:
 
-- Paul Maxan, sea kayak (2023-2024), 13 days spanning 2 years, counter-clockwise
+- Paul Maxan, sea kayak (2023-2024), 13 days spanning 2 years, clockwise

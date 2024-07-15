@@ -19,3 +19,7 @@ A few people have done this already, and it is only fair to assume that there ar
 The purpose of the trip is to challenge oneself, to enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip. This is going to be fun! my first solo multi-day paddle.
 
 > Even the best plans sometime fail. Stop and regroup. I did not complete my circumnavigation in 2023. I have paddled clockwise from North Rustico to Cape Egmont, about 350km. The remaining 200km, from Cape Egmont to North Rustico will be completed this year, 2024.
+
+June 13th 2024, happy to be adding myself to the list of people that have circumnavigated the island:
+
+- Paul Maxan, sea kayak (2023-2024), 13 days spanning 2 years, counter-clockwise

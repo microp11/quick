@@ -1,13 +1,12 @@
 ---
 title: "Trip"
-date: 2024-07-02
+date: 2024-07-15
 tags: []
 draft: false
 ---
 
-> 2024 update:
-> Cap Egmont to North Rustico, hopefully 5-6 days at most weather permitting, about 100 nautical miles.
+> The trip broken down (13 days, 314 nautical miles or 581 km):
 
-> 2023: North Rustico to Cap Egmont, 9 days, 200 nautical miles or 370 km.
+![2024](/img/trip2e.png)
 
-![2023](/img/2023.JPG)
+![2024](/img/trip.JPG)

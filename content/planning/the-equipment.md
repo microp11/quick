@@ -77,3 +77,5 @@ draft: false
 - Phone, battery pack, and solar charger
 - Small phone charger that fits GFCI outlets with cover
 - Extra plastic bags
+
+Adjust for the season. Pad your compartments with higly absorbent shammy towels. They take little space and absorb the water trickling inside the compartments.

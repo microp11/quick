@@ -5,7 +5,17 @@ tags: []
 draft: false
 ---
 
-> The trip broken down (13 days, 314 nautical miles or 581 km):
+> The trip stats
+
+- 13 paddling days
+- 9 overnight tent campings
+- 3 breaks (weather and running out of vacation days)
+- 200 nautical miles in 9 days 2023 (exhausting weather and sea state)
+- 114 nautical miles in 4 days 2024 (superb conditions)
+- 314 nautical miles (581 km or 361 statute miles):
+- day 5 (the most exhausing day, rain, misty and strong offshore wind)
+- day 8 (the 7 cell storms, 5 behind, 2 ahead)
+- day 9 (the biggest water)
 
 ![2024](/img/trip2e.png)
 

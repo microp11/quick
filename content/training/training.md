@@ -6,7 +6,7 @@ draft: false
 
 > Not the actual trip, just training mapped on chart to have an idea of what the real thing might take.
 
-> 2024, building on-water confidence, with [C2TC Sea Kayak Coaching](https://committed2thecore.com/) in [NS](https://www.facebook.com/reel/3316194118677419).
+> Since 2014 building on-water confidence, with [C2TC Sea Kayak Coaching](https://committed2thecore.com/) in [NS](https://www.facebook.com/reel/3316194118677419).
 
 > May 14, 2023, 1000 km on ergo!
 

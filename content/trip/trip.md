@@ -7,6 +7,8 @@ draft: false
 
 > The trip stats
 
+- completed 13th of July 2024
+- started 21st of June 2023
 - 13 paddling days
 - 9 overnight tent campings
 - 3 breaks (weather and running out of vacation days)

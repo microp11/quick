@@ -14,8 +14,8 @@ draft: false
 - 114 nautical miles in 4 days 2024 (superb conditions)
 - 314 nautical miles (581 km or 361 statute miles):
 - day 5 (the most exhausing day, rain, misty and strong offshore wind)
-- day 8 (the 7 cell storms, 5 behind, 2 ahead)
-- day 9 (the biggest water)
+- day 7 (the 7 cell storms, 5 behind, 2 ahead)
+- day 8 (the biggest water)
 
 ![2024](/img/trip2e.png)
 

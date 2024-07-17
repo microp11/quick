@@ -20,7 +20,7 @@ draft: false
 
 #### Paddling gear
 
-- Sea kayak with deck compass
+- Sea kayak with deck compass (my boat is a [P&H Cetus MV](https://www.phseakayaks.com/kayaks.php?model=cetus-mv) called "Macsu Mare")
 - Paddle and spare paddle
 - 2 inflatable paddle floats
 - Tow rope

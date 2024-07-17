@@ -16,7 +16,7 @@ draft: false
 - Small compact tent (stored in a plastic bag)
 - Sleeping bag (stored in a plastic bag inside a compression bag)
 - Inflatable sleeping mattress (the thicker the better) and inflatable pillow
-- Headlamp and tent lamp
+- Headlamp
 
 #### Paddling gear
 
@@ -28,14 +28,15 @@ draft: false
 - Chart case and charts
 - VHF radio
 - GPS
+- Cell phone
 
 #### Kits
 
 - First aid kit
 - Boat repair kit
-- Toilet kit (1 roll toilet paper, alcohol wipes, 1 lighter, headlamp)
+- Toilet kit (toilet paper, alcohol wipes, lighter, headlamp)
 - Ouch kit (band-aids, pain killers, antacid, antibiotic ointment)
-- Cooking kit (stove, 1 fuel canister, 1 lighter, cooking pot, knife)
+- Cooking kit (stove, fuel canister, lighter, cooking pot, knife)
 
 #### Clothing on the water (synthetic or wool)
 
@@ -61,7 +62,7 @@ draft: false
 #### Other items
 
 - Batteries for GPS (2 AA per day, Duracell type)
-- Clock or extra watch with alarm
+- Extra watch with alarm
 - Extra ball cap
 - Extra glasses with strap
 - Small mirror
@@ -78,4 +79,4 @@ draft: false
 - Small phone charger that fits GFCI outlets with cover
 - Extra plastic bags
 
-Adjust for the season. Pad your compartments with higly absorbent shammy towels. They take little space and absorb the water trickling inside the compartments.
+Adjust above list for the season and duration. Pad compartments with higly absorbent shammy towels (they take little space and absorb the water trickling inside the compartments).

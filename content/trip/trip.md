@@ -18,7 +18,7 @@ draft: false
 - day 5 (the most exhausing day, rain, misty and strong offshore wind)
 - day 7 (the 7 cell storms, 5 behind, 2 ahead)
 - day 8 (the biggest water)
-- day 12 (fog and dophins, probably the nicest paddling day)
+- day 12 (fog and dophins, the most relaxed paddling day)
 
 ![2024](/img/trip2e.png)
 

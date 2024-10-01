@@ -15,10 +15,11 @@ A few people have done this already, and it is only fair to assume that there ar
 - [Joseph Simmonds, sea kayak (August 2016), 12 days, counter-clockwise](https://www.cbc.ca/news/canada/prince-edward-island/pei-kayak-1.3729504)
 - [Annette Boerlage, sea kayak (2014-2016), spanning 3 years, using her bike as a shuttle](https://fourfeetonadventure.com/)
 - [Douglas Russell and Colin Hudson, SUP (June 2020), 12 days, clockwise](https://atlantic.ctvnews.ca/two-veterans-become-first-to-paddleboard-around-p-e-i-for-injured-soldiers-1.5978679)
-- [Paul Maxan, sea kayak (2023-2024), 13 days spanning 2 years, clockwise]() (these pages)
 
 The purpose of the trip is to challenge oneself, to enjoy and explore. Speed of travel is secondary to exploring and I have set aside up to a month for doing this trip. This is going to be fun! my first solo multi-day paddle.
 
 > Even the best plans sometime fail. Stop and regroup. I did not complete my circumnavigation in 2023. I have paddled clockwise from North Rustico to Cape Egmont, about 350km. The remaining 200km, from Cape Egmont to North Rustico will be completed this year, 2024.
 
-June 13th 2024, happy to be adding myself to the list of people that have circumnavigated the island.
+June 13th 2024, happy to be adding myself to the list of people that have circumnavigated the island:
+
+- [Paul Maxan, sea kayak (2023-2024), 13 days spanning 2 years, clockwise]() (these pages)
